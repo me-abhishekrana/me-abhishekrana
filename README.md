@@ -1,16 +1,21 @@
-### Hi there 👋
+<p align="center"> <img src="./images/baaner.gif" alt="me-abhishekrana" /> </p>
 
-<!--
-**me-abhishekrana/me-abhishekrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey, I'm Divyanshu 👨‍💻</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=me-abhishekrana&label=Profile%20views&color=0b64b7&style=flat" alt="me-abhishekrana" /> </p>
 
-Here are some ideas to get you started:
+🚀 DevOps Engineer | 🌐 Automating the World | ☁️ Cloud Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Transforming chaos into streamlined operations, one script at a time.
+🧰 Infrastructure as Code (IaC) aficionado.
+🛡️ Security and compliance are my watchwords.
+
+🔧 Terraform, Ansible, Docker, Kubernetes - my daily tools.
+📊 Continuous Integration/Continuous Delivery (CI/CD) advocate.
+🌐 Building scalable, resilient, and cost-effective systems in the cloud.
+
+👷‍♀️ Collaborating with Dev and Ops teams for a seamless pipeline.
+📈 Monitoring, observability, and performance optimization fanatic.
+
+💡 Continuous learning and embracing new challenges.
+
+📧 Let's connect **me.abhishekrana0317@gmail.com** and automate the future!
